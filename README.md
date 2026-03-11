@@ -10,7 +10,7 @@ Features:
 Requirements:
 - A cgo compiler (typically gcc).
 - On Ubuntu/Debian-based systems, the `libgl1-mesa-dev` package.
-- On Fedora/RHEL-based systems, the `libXxf86vm-devel` and `mesa-libEGL-devel` packages.
+- On Fedora/RHEL-based systems, the `libXxf86vm-devel` and `mesa-libGL-devel` packages.
 
 ## Usage
 
